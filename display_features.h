@@ -114,7 +114,7 @@ void choice_menu() {
 				flag = 4;
 			}
 			else if (i == 4 && flag < 5 && j > 9) {
-				printf("          | 2 | Input Of Working Hours Of A Single Month  |");
+				printf("          | 2 | Input Of Working Hours For One Whole Year |");
 				flag = 5;
 			}
 			else if (i == 5 && flag < 6 && j > 9) {
