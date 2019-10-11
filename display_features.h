@@ -21,7 +21,7 @@ void greeting_menu() {
 				printf("\xb2");
 			}
 			else if (j == 30 && flag < 1) {
-				printf("Salary Accounting Softwere");
+				printf("Salary Accounting Software");
 				j = 55;
 				flag = 1;
 			}
